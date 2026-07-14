@@ -1,7 +1,7 @@
 # Titanic Survival Prediction
 
 <p align="center">
-  <img src="titanic.png" width="850">
+  <img src="output3.png" width="850">
 </p>
 
 A Machine Learning project that predicts whether a passenger survived the Titanic disaster using demographic and travel information. The project demonstrates a complete machine learning workflow including data exploration, preprocessing, feature engineering, model training, evaluation, visualization, and prediction.
@@ -122,7 +122,7 @@ The following Machine Learning algorithms were implemented:
 # Confusion Matrix
 
 <p align="center">
-  <img src="confusion_matrix.png" width="700">
+  <img src="output4.png" width="700">
 </p>
 
 The confusion matrix shows the number of correctly and incorrectly classified passengers, providing deeper insight into model performance beyond accuracy alone.
@@ -132,7 +132,7 @@ The confusion matrix shows the number of correctly and incorrectly classified pa
 # Model Comparison
 
 <p align="center">
-  <img src="model_comparison.png" width="700">
+  <img src="output5.png" width="700">
 </p>
 
 The comparison illustrates the performance differences between the implemented machine learning models.
