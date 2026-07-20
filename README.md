@@ -1,5 +1,9 @@
 # Titanic Survival Prediction
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A complete machine learning classification project that predicts whether a Titanic passenger survived using a clean, reproducible, and leakage-safe workflow.
 
 ## Project Objective
